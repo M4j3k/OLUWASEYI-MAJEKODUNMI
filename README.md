@@ -1,7 +1,7 @@
 # Hello, I'm Oluwaseyi Majekodunmi
 <a href="https://www.linkedin.com/in/oluwaseyi-majekodunmi-11a157304"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a passionate and highly motivated SOC Analyst with a robust foundation in cybersecurity, driven by hands-on experience in threat detection, incident response, and digital forensics. Armed with a BSc in Computer Science, I specialize in analyzing security incidents, identifying malicious activity, and leveraging industry-leading tools to secure IT infrastructures.
+I am a passionate and highly motivated SOC Analyst, with hands-on experience in threat detection, incident response, and digital forensics. I specialize in analyzing security incidents, identifying malicious activity, and leveraging industry-leading tools to secure IT infrastructures.
 
 Beyond technical expertise, I have a keen interest in emerging cybersecurity trends, cloud computing, and Identity and Access Management (IAM). I am dedicated to continuously learning and staying ahead in this fast-evolving field, ensuring that I can protect organizations from the latest cyber threats and vulnerabilities.
 
