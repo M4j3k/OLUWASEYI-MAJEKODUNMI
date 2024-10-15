@@ -10,6 +10,7 @@ Beyond technical expertise, I have a keen interest in emerging cybersecurity tre
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/M4j3k/OLUWASEYI-MAJEKODUNMI/blob/main/Splunk%20Implementation%20for%20Security%20Analysis.pdf">Splunk Implementation for Security Analysis.</a>|
+| Vulnerability Scanning and Management         | <a href="https://github.com/M4j3k/OLUWASEYI-MAJEKODUNMI/blob/main/Vulnerability%20Management%20and%20Asset%20Scanning%20Using%20Qualys%20on%20AWS_%20A%20Practical%20Implementation.pdf">Vulnerability Management and Asset Scanning Using Qualys</a>|
 
 
 ## Tools
